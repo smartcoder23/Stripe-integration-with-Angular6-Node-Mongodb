@@ -20,4 +20,4 @@ nodemon app.js
 or 
 node app.js
 
-In this project i am getting the user card info. and other details from the stripe response after user makes a payment and later on saved this details to the database.
+In this project i am getting the user card info. and other details from the stripe response after user makes a payment and later on saved these details to the database.
