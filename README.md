@@ -9,9 +9,13 @@ Just clone my repo.
 
 Then execute this steps
 1. npm install(to install all the packages)
+
 2.open terminal and hit command
+
 ng serve 
+
 3.open another terminal and hit command
+
 nodemon app.js
 or 
 node app.js
